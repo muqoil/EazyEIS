@@ -1,5 +1,5 @@
-.data/
-.circuits/
+data/
+circuits/
 etc
 test.ipynb
 data_maker.py
